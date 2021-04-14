@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.6",
-    "colors": "^1.4.0",
-    "instatouch": "^2.3.3"
+    "cheerio": "^1.0.0-rc.6"
   }
 }
