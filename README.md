@@ -1,20 +1,8 @@
 # Basic data-fetching script using Axios & Cheerio
 
-## Running the following will output a json file of the results
-
 </br>
 
-```bash
-node index.js
-```
-
-</br>
-
-### Note that you must install the local dependencies upon cloning/downloading this repo
-
-<hr>
-
-## Current output:
+## Current output from running `node index.js`
 
 ```json
 [
@@ -37,12 +25,13 @@ node index.js
         "links": [
             "Attractions"
         ]
-    }, ...
+    } // ... and so on ...
+]
 ```
 
 </br>
 
-## Desired output:
+## Desired output
 
 ```json
 [
@@ -51,9 +40,11 @@ node index.js
       "Apartments",
       "Architecture",
       "Organizations",
-      "Attractions",
-      ...
+      "Attractions"
+      // ... and so on ...
     ]
   }
 ]
 ```
+
+### Can you assist me in understanding where in my code and logic I am missing to create the formatted output that I'm desiring? Thanks for your time
