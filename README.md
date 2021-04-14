@@ -2,9 +2,13 @@
 
 </br>
 
-## Current output from running `node index.js`
+## Can you assist me in understanding where in my code and logic I am missing to create the formatted output that I'm desiring? Thanks for your time
 
-```json
+</br>
+
+### Current output from running `node index.js`
+
+```javascript
 [
     {
         "links": [
@@ -31,9 +35,9 @@
 
 </br>
 
-## Desired output
+### Desired output
 
-```json
+```javascript
 [
   {
     "links": [
@@ -46,5 +50,3 @@
   }
 ]
 ```
-
-### Can you assist me in understanding where in my code and logic I am missing to create the formatted output that I'm desiring? Thanks for your time
