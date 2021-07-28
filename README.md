@@ -2,11 +2,7 @@
 
 </br>
 
-## Can you assist me in understanding where in my code and logic I am missing to create the formatted output that I'm desiring? Thanks for your time
-
-</br>
-
-### Current output from running `node index.js`
+## Current output from running `node index.js`
 
 ```javascript
 [
@@ -35,7 +31,7 @@
 
 </br>
 
-### Desired output
+## Desired output
 
 ```javascript
 [
